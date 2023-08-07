@@ -1,0 +1,25 @@
+{
+  "name": "@openzeppelin/contracts",
+  "version": "0.8.7",
+  "description": "A decentralized application (dApp) leveraging flash loans for arbitrage opportunities between Uniswap and Sushiswap.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "truffle",
+    "flashloan",
+    "arbitrage",
+    "smart-contracts",
+    "defi",
+    "uniswap",
+    "sushiswap"
+  ],
+  "author": "~K¹",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
